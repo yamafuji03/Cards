@@ -24,11 +24,16 @@ samples, guidance on mobile development, and a full API reference.
 
 
 書くこと
+
 使用技術
+
 開発期間
 開発の背景・きっかけ
+
 大変だったこと
+
 工夫したこと
+
 反省・今後の課題
 
 

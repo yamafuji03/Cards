@@ -13,7 +13,6 @@
 
 ## 開発技術・使用したPackage
 shared_preferences
-
 image_picker
 
 url_launcher

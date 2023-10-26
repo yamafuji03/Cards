@@ -13,10 +13,15 @@
 
 ## 開発技術・使用したPackage
 shared_preferences
+
 image_picker
+
 url_launcher
+
 share_plus
+
 path_provider
+
 screenshot
 
 ## 工夫したところ

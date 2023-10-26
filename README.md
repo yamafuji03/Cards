@@ -57,5 +57,3 @@ User-friendlyにするためにログイン時に予めpasswordを初期値と�
 
 アプリを表示するアイコンはプロジェクトファイルに入れておくことを知らなかったので次のアプリはアイコンをちゃんと表示させたいと思いました。
 
-
-![image](https://github.com/yamafuji03/Cards/assets/79044560/accf1edd-49b4-4cbd-8863-5b700fb881e1)
